@@ -1,6 +1,6 @@
-![profile image](og-image.png)
+![profile image](https://github.com/continuumvr/.github/blob/main/profile/og-image.png?raw=true)
 
-<img src="stickers-drapeau-us.webp" alt="US flag" width=30>
+<img src="https://github.com/continuumvr/.github/blob/main/profile/stickers-drapeau-us.webp?raw=true" alt="US flag" width=30>
 
 ## Hi there, welcome on ContinuumVR 👋
 
@@ -29,7 +29,7 @@ Ruby Mignot is the project lead for Continuum. A VRChat player for over 3 years 
 
 ---
 
-<img src="stickers-drapeau-francais.jpg" alt="fr flag" width=30>
+<img src="https://github.com/continuumvr/.github/blob/main/profile/stickers-drapeau-francais.jpg?raw=true" alt="fr flag" width=30>
 
 ## Bonjour à toutes et tous, Bienvenue sur ContinuumVR 👋
 
