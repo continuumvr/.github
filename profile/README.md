@@ -6,6 +6,8 @@
 
 ### THE OPEN-SOURCE VR SOCIAL GAME
 
+> https://continuumvr.space
+
 #### Project Vision: Free, Open Source, Cross-Platform
 
 - **Social Immersion**: Meet your friends in VR spaces, enjoy 3D spatial audio and express yourself with avatars.
@@ -34,6 +36,8 @@ Ruby Mignot is the project lead for Continuum. A VRChat player for over 3 years 
 ## Bonjour à toutes et tous, Bienvenue sur ContinuumVR 👋
 
 ### LE JEU SOCIAL VR OPEN-SOURCE
+
+> https://continuumvr.space
 
 #### Vision du projet : Libre, Gratuit, Multiplateforme
 
