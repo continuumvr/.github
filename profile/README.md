@@ -4,7 +4,7 @@
 
 ## Hi there, welcome on ContinuumVR 👋
 
-<img src="stickers-drapeau-francais.jpg alt="fr flag" width=30>
+<img src="stickers-drapeau-francais.jpg" alt="fr flag" width=30>
 
 ## Bonjour à toutes et tous, Bienvenue sur ContinuumVR 👋
 
