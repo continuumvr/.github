@@ -1,9 +1,11 @@
 ![profile image](og-image.png)
 
-# English
+<img src="stickers-drapeau-us.webp" alt="US flag" width=30>
+
 ## Hi there, welcome on ContinuumVR 👋
 
-# Français
+<img src="stickers-drapeau-francais.jpg alt="fr flag" width=30>
+
 ## Bonjour à toutes et tous, Bienvenue sur ContinuumVR 👋
 
 <!--
