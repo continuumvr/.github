@@ -41,7 +41,6 @@ Ruby Mignot is the project lead for Continuum. A VRChat player for over 3 years 
 - **Install game**
   - Download game [installer](https://continuum-s3.rnouille.space/releases/Continuum_Setup.exe)
   - Install game.
-  - Run game.
 
 
 - **Run game in PCVR without VR headset**
@@ -103,7 +102,6 @@ Ruby Mignot est la porteuse du projet Continuum. Joueuse VRChat depuis plus de 3
 - **Installer le jeu**
   - Téléchargez [l'installeur](https://continuum-s3.rnouille.space/releases/Continuum_Setup.exe)
   - Installez le jeu.
-  - Lancer le jeu.
 
 
 - **Lancer le jeu sans casque VR**
