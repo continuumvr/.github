@@ -4,17 +4,54 @@
 
 ## Hi there, welcome on ContinuumVR 👋
 
+### THE OPEN-SOURCE VR SOCIAL GAME
+
+#### Project Vision: Free, Open Source, Cross-Platform
+
+- **Social Immersion**: Meet your friends in VR spaces, enjoy 3D spatial audio and express yourself with avatars.
+- **Open Source**: The code is free. Built with the Unity engine, Continuum belongs to the community. We are open to contributions.
+- **Total Freedom**: Compatible PCVR and Quest standalone from day one. Free, no pay to win. The metaverse done right.
+
+### 📖 The story of Continuum
+
+#### Nuum, our mascot
+Continuum is an open-source, free VR social game project. Inspired by the best social VR games, we want to create a free alternative where communities can gather, create worlds, and have fun together.
+
+In reality, Continuum is developed by a small passionate team, with the precious help of contributors who believe in a free and accessible metaverse. Every contribution counts and of course, every idea is welcome. :)
+
+#### The Project Lead
+Ruby Mignot is the project lead for Continuum. A VRChat player for over 3 years and creator of worlds with over 16,000 visits, her passion for web development and VR assets drove her to create Continuum.
+
+#### 🛠 Under the hood: Built with free tools
+- **Game**: Developed in **C#** with **Unity**, a powerful game engine.
+- **Website**: Developed with **Next.js**, for a reactive experience.
+- **API**: Developed with **NestJS**, for a scalable architecture.
+
+---
+
 <img src="stickers-drapeau-francais.jpg" alt="fr flag" width=30>
 
 ## Bonjour à toutes et tous, Bienvenue sur ContinuumVR 👋
 
-<!--
+### LE JEU SOCIAL VR OPEN-SOURCE
 
-**Here are some ideas to get you started:**
+#### Vision du projet : Libre, Gratuit, Multiplateforme
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **En immersion** : Retrouvez vos amis dans des espaces VR, profitez d'une voix spatialisée et exprimez-vous avec des avatars.
+- **Open Source** : Développé avec le moteur Unity, Continuum appartient à la communauté. Nous sommes ouverts à la contribution.
+- **Liberté Totale** : Compatible PCVR et Quest autonome dès le premier jour. Gratuit, sans pay to win. Le métavers tel qu'il devrait l'être.
+
+### 📖 L'histoire de Continuum
+
+#### Nuum, notre mascotte
+Continuum est un projet de jeu social VR, open-source et gratuit. Inspiré par les meilleurs jeux sociaux VR, nous voulons créer une alternative libre où les communautés peuvent se retrouver, créer des mondes, et s'amuser ensemble.
+
+En réalité, Continuum est développé par une petite équipe passionnée, avec l'aide précieuse de contributeurs qui croient en un métavers libre et accessible. Chaque contribution compte et bien sûr, chaque idée est la bienvenue. :)
+
+#### La Porteuse du Projet
+Ruby Mignot est la porteuse du projet Continuum. Joueuse VRChat depuis plus de 3 ans et créatrice de mondes ayant cumulé plus de 16 000 visites, sa passion pour le développement web et les assets VR l'a poussée à créer Continuum.
+
+#### 🛠 Sous le capot : Construit avec des outils libres
+- **Jeu** : Développé en **C#** avec **Unity**, un moteur de jeu puissant.
+- **Site web** : Développé avec **Next.js**, pour une expérience réactive.
+- **API** : Développée avec **NestJS**, pour une architecture scalable.
