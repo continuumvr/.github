@@ -35,6 +35,7 @@ Ruby Mignot is the project lead for Continuum. A VRChat player for over 3 years 
 - Register you on the alpha on [Meta games store](https://www.meta.com/s/6obEd5jhj)
 - You will find the game on your Meta Quest game library.
 - Install game.
+- Run game.
 
 
 **Windows (PCVR)** :
