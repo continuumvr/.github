@@ -1,4 +1,4 @@
-![profile image](./og-image.png)
+![profile image](og-image.png)
 
 # English
 ## Hi there, welcome on ContinuumVR 👋
