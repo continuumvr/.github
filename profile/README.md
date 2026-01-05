@@ -1,4 +1,10 @@
-## Hi there, welcome on Continuum 👋
+![profile image](./og-image.png)
+
+# English
+## Hi there, welcome on ContinuumVR 👋
+
+# Français
+## Bonjour à toutes et tous, Bienvenue sur ContinuumVR 👋
 
 <!--
 
