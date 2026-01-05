@@ -1,12 +1,12 @@
 ![profile image](https://github.com/continuumvr/.github/blob/main/profile/og-image.png?raw=true)
 
+> https://continuumvr.space
+
 <img src="https://github.com/continuumvr/.github/blob/main/profile/stickers-drapeau-us.webp?raw=true" alt="US flag" width=30>
 
 ## Hi there, welcome on ContinuumVR 👋
 
 ### THE OPEN-SOURCE VR SOCIAL GAME
-
-> https://continuumvr.space
 
 #### Project Vision: Free, Open Source, Cross-Platform
 
@@ -36,8 +36,6 @@ Ruby Mignot is the project lead for Continuum. A VRChat player for over 3 years 
 ## Bonjour à toutes et tous, Bienvenue sur ContinuumVR 👋
 
 ### LE JEU SOCIAL VR OPEN-SOURCE
-
-> https://continuumvr.space
 
 #### Vision du projet : Libre, Gratuit, Multiplateforme
 
