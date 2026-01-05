@@ -29,6 +29,37 @@ Ruby Mignot is the project lead for Continuum. A VRChat player for over 3 years 
 - **Website**: Developed with **Next.js**, for a reactive experience.
 - **API**: Developed with **NestJS**, for a scalable architecture.
 
+### How to play game ?
+
+**Meta Quest** :
+- Register you on the alpha on [Meta games store](https://www.meta.com/s/6obEd5jhj)
+- You will find the game on your Meta Quest game library.
+- Install game.
+
+
+**Windows (PCVR)** :
+- Download game [installer](https://continuum-s3.rnouille.space/releases/Continuum_Setup.exe)
+- Install game.
+- Run game.
+
+
+- **Run game in PCVR without VR headset**
+  - Download [Meta XR simulator](https://developers.meta.com/horizon/downloads/package/meta-xr-simulator-windows/)
+  - Follow instructions to setup Meta XR simulator.
+  - Run game.
+
+
+- **Run game in PCVR with VR headset**
+  - Download [steam](https://store.steampowered.com/about/) and [steamVR](https://store.steampowered.com/app/250820/SteamVR/)
+  - Run steamVR.
+  - Run [Steam Link](https://www.meta.com/fr-fr/experiences/steam-link/5841245619310585/) or Virtual Desktop
+    - Before run game with Virtual Desktop
+      - Install [server](https://www.vrdesktop.net/) on your PC
+      - Install [client](https://www.meta.com/fr-fr/experiences/virtual-desktop/2017050365004772/) on your Meta Quest.
+      - Run Virtual Desktop server.
+  - Run Virtual Desktop client on the headset.
+  - Run ContinuumVR client on the PC.
+  - Run game.
 ---
 
 <img src="https://github.com/continuumvr/.github/blob/main/profile/stickers-drapeau-francais.jpg?raw=true" alt="fr flag" width=30>
@@ -57,3 +88,36 @@ Ruby Mignot est la porteuse du projet Continuum. Joueuse VRChat depuis plus de 3
 - **Jeu** : Développé en **C#** avec **Unity**, un moteur de jeu puissant.
 - **Site web** : Développé avec **Next.js**, pour une expérience réactive.
 - **API** : Développée avec **NestJS**, pour une architecture scalable.
+
+### Comment jouer ?
+
+**Meta Quest**
+- Enregistrez vous sur [l'alpha](https://www.meta.com/s/6obEd5jhj)
+- Vous trouverez le jeu dans votre bibliothèque de jeux Meta Quest.
+- Installez le jeu.
+- Lancer le jeu.
+
+
+**Windows (PCVR)**
+- Téléchargez [l'installeur](https://continuum-s3.rnouille.space/releases/Continuum_Setup.exe)
+- Installez le jeu.
+- Lancer le jeu.
+
+
+- **Lancer le jeu sans casque VR**
+  - Télécharger [Meta XR simulator](https://developers.meta.com/horizon/downloads/package/meta-xr-simulator-windows/)
+  - Suivre les instructions pour configurer Meta XR simulator.
+  - Lancer le jeu.
+
+
+- **Lancer le jeu avec un casque VR**
+  - Télécharger [steam](https://store.steampowered.com/about/) et [steamVR](https://store.steampowered.com/app/250820/SteamVR/)
+  - Lancer steamVR.
+  - Lancer [Steam Link](https://www.meta.com/fr-fr/experiences/steam-link/5841245619310585/) ou Virtual Desktop
+    - Avant de lancer le jeu avec Virtual Desktop
+      - Installer [server](https://www.vrdesktop.net/) sur votre PC
+      - Installer [client](https://www.meta.com/fr-fr/experiences/virtual-desktop/2017050365004772/) sur votre Meta Quest.
+      - Lancer le serveur Virtual Desktop.
+  - Lancer le client Virtual Desktop sur le casque.
+  - Lancer le client ContinuumVR sur le PC.
+  - Lancer le jeu.
